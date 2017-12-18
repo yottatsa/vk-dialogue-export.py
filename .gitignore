@@ -1,4 +1,7 @@
 *.pyc
-*~
-*vk_exported_*
-.idea/
+*.swp
+.DS_Store
+chat_id*
+uid*
+*.gpg
+*.json
